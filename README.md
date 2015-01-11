@@ -1,3 +1,5 @@
+See https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js
+
 1. `npm install --save-dev mocha selenium-webdriver phantomjs`
 2. `wget http://selenium-release.storage.googleapis.com/2.43/selenium-server-standalone-2.43.0.jar`
 3. `node server`
